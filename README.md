@@ -20,4 +20,5 @@ CineSwitch is an engaging and interactive movie landing page created using **HTM
 
 
 ## 📸 Screenshots
-![Uploading movieverse.png…]()
+<img width="1077" height="602" alt="image" src="https://github.com/user-attachments/assets/247af811-d939-434f-b0f3-a2c787337897" />
+
