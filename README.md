@@ -3,7 +3,7 @@ CineSwitch is an engaging and interactive movie landing page created using **HTM
 
 
 ## 🌟 Features
-- 🎞️ Movie Selector – Choose from multiple movies; content updates instantly
+- 🎞️ Movie Selector – Choose from multiple movies , content updates instantly
 - 🌄 Dynamic Background/Scenario – The page's visuals and themes change based on the selected movie
 - ▶️ Trailer Viewer – Embedded video section that plays the movie trailer
 - 📱 Fully Responsive Design – Optimized for desktops, tablets, and mobile devices
